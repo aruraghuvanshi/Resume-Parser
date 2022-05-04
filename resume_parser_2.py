@@ -16,11 +16,8 @@ from tqdm.auto import tqdm
 
 
 def convert_pdf_image(pdf_file):       
-
     '''
-
     Converts PDF to PNG using pdf2image library
-
     '''
 
     images = convert_from_path(pdf_file, poppler_path=r'E:\poppler-0.68.0\bin')
@@ -34,11 +31,8 @@ def convert_pdf_image(pdf_file):
 
 
 def pdfextract(verbose=True):
-
     '''
-
     Extracts text from PNG Images
-
     '''
     
     pt.pytesseract.tesseract_cmd = r'C:\Program Files (x86)\Tesseract-OCR\tesseract.exe'
