@@ -1,0 +1,29 @@
+﻿Statistics,Machine Learning,Deep Learning,Management,Python,NLP,Data Engineering,HR,Banking
+statistical models,linear regression,neural networks,management,python,nlp,aws,recruitment,finance
+statistical modelling,logistic regression,perceptrons,gathering,flask,natural language processing,ec2,recruit,monetary
+probability,k means,convolutional,intel,django,topic modelling,aws lambda,placement,finances
+distributions,decision trees,recurrent,clients,remi,lda,docker,hiring,escrow
+poisson,cross validation,face detection,client,pandas,latent dirichlet allocation,neptune,hiring manager,budget
+normal,random forest,object detection,policies,numpy,pos tagging,kubernetes,soft skills,loans
+binomial,xgboost,object segmentation,policy,glob,named entity recognition,scala,engagement,account
+survival,lightgbm,yolo,construction,visualization,pattern,teradata,salary,accounts
+hypothesis testing,svm,gru,tender,seaborn,regex,gcp,skill set,legal
+anova,support vector machines,lstm,tenders,matplotlib,nltk,azure,employee,
+factor analysis,ensemble models,cuda,teaching,tableau,spacy,hive,leave,
+bayesian inference,model metrics,tensorflow ,online,plotly,gensim,hadoop,documentation,
+inferential statistics,cluster analysis,keras,manager,developer,textblob,pyspark,reporting,
+predictive analytics,unsupervised,opencv,operations,graph,word2vec,spark,reports,
+markov chain,supervised,computer vision,,wrangling,BERT,fargate,staff,
+monte carlo,principal component analysis,ann,,,skip gram,aws ec2,job,
+scipi,k-means,cnn,,,sentiment,s3,absence,
+statsmodel,apriori,rnn,,,chat bot,rds,employee development,
+stats,scikit learn,gan,,,phrase matching,relational,,
+p value,sklearn,autoencoder,,,pos,rds,,
+alpha,svc,auto encoder,,,ner,databse,,
+confidence interval,eclat,generative,,,glove,sql,,
+outlier,,adversarial,,,tfidf,,,
+exploratory data,,neural,,,tf-idf,,,
+inference,,artificial,,,vectorizer,,,
+insights,,transformer based,,,word embeddings,,,
+,,embedding,,,,,,
+,,embeddings,,,,,,
